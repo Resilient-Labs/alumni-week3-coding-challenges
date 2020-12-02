@@ -2,7 +2,7 @@
 
 ### Goal: Complete A Coding Challenge Every Day. Please submit week 3 solutions here.
 
-### How to submit your code for review:
+### How to submit your code for review :
 
 - Fork and clone this repo
 - Create a new branch called solutions
